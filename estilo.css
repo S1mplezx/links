@@ -1,0 +1,56 @@
+li {list-style-type:none;}
+
+.Redes-sociais a {
+    
+    width: 40px;
+    height: 40px;
+    display: block;
+    text-indent: -99999px;
+
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    background-image: linear-gradient(45deg,black, #221133);
+
+}
+
+
+
+.instagram{
+    background-image: url("img/logotipo_resized.webp");
+}
+
+.github{
+    background-image: url("img/github.png");
+}
+
+a:link{color:blue;
+    text-decoration: none;}
+
+a:visited{color:blue;
+    text-decoration: none;
+}
+
+a:hover{color: black;
+    text-decoration:underline;}
+
+a:active{ color: black;
+    text-decoration: underline;
+
+}
+
+.pagina2{
+    text-align: center;
+}
+
+.pagina3{
+    text-align: center;
+   
+}
+
+.home{
+ 
+    text-align: center;
+}
